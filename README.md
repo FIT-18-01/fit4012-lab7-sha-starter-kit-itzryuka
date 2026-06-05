@@ -178,3 +178,6 @@ Một số điểm sinh viên có thể cải tiến:
 - lưu thông tin hash file theo định dạng manifest
 - thêm benchmark thời gian băm file lớn
 - phân tích vì sao SHA-256 không phù hợp để lưu mật khẩu trong hệ thống thật nếu không có cơ chế làm chậm/brute-force resistant
+
+
+
